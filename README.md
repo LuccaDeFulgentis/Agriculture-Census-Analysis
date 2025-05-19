@@ -8,7 +8,7 @@ This project investigates how the increasing average age of U.S. farmers impacts
 
 The repository includes:
 1. TheImpactofanAgingFarmerPopulationonAgriculture.pdf: A PDF report summarizing key findings, figures, and methodology
-2. census_data_processing.ipynb A Jupyter Notebook containing data cleaning, processing, and visualizations used in the analysis
+2. census_data_processing.ipynb: A Jupyter Notebook containing data cleaning, processing, and visualizations used in the analysis
 
 ## Focus
 1. Trend Analysis: Tracking the rise in average farmer age from 1997 to 2022
